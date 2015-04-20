@@ -1,0 +1,14 @@
+C:\Users\cengiz\AppData\Local\Temporary Projects\proje1.a\bin\Debug\proje1.a.exe
+C:\Users\cengiz\AppData\Local\Temporary Projects\proje1.a\bin\Debug\proje1.a.pdb
+C:\Users\cengiz\AppData\Local\Temporary Projects\proje1.a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cengiz\AppData\Local\Temporary Projects\proje1.a\obj\x86\Debug\proje1.a.exe
+C:\Users\cengiz\AppData\Local\Temporary Projects\proje1.a\obj\x86\Debug\proje1.a.pdb
+C:\Users\Egebilmuh\Desktop\proje1.a\proje1.a\obj\x86\Debug\proje1.a.exe
+C:\Users\Egebilmuh\Desktop\proje1.a\proje1.a\obj\x86\Debug\proje1.a.pdb
+C:\Users\Egebilmuh\Desktop\proje1.a\proje1.a\bin\Debug\proje1.a.exe
+C:\Users\Egebilmuh\Desktop\proje1.a\proje1.a\bin\Debug\proje1.a.pdb
+C:\Users\Egebilmuh\Desktop\proje1.a\proje1.a\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Data Structures Projeler\proje1.a\proje1.a\obj\x86\Debug\proje1.a.exe
+D:\Data Structures Projeler\proje1.a\proje1.a\obj\x86\Debug\proje1.a.pdb
+D:\Data Structures Projeler\proje1.a\proje1.a\bin\Debug\proje1.a.exe
+D:\Data Structures Projeler\proje1.a\proje1.a\bin\Debug\proje1.a.pdb
